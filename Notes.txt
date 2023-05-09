@@ -1,0 +1,1 @@
+Caso as coisas estiverem dando errado, e o comando "<?php echo [...]:?>" não estiver funcionando, coloque o código do arquivo php inteiro para exibir o que você quer.
